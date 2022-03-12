@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sebastian Varona an Informatics Engeneering student.
 - 👀 I’m interested in Full Stack Web Development and Artificial Inteligence.
-- 🌱 I’m currently learning backend in Node.js and Laravel.
+- 🌱 I’m currently learning backend in Node.js and Django.
+- 🚀 I've created a blog where I post everything I learn 😎 please [check it out](https://crevna.com).
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... --->
 
