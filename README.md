@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning backend in **Node.js** and **Django.**
 - 🚀 I've created a blog where I post everything I learn 😎 please **[check it out!](https://crevna.com)**.
 ## Contact me 🙋‍♂️
-- 📫 You can reach me from my **[LinkedIn Profile](www.linkedin.com/in/juansebasva1201).**
+- 📫 You can reach me from my **[LinkedIn Profile](https://www.linkedin.com/in/juansebasva1201).**
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
