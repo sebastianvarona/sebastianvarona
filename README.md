@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Sebastian Varona an Informatics Engeneering student.
 ## My career path 🪨⛏
-- 👀 I’m interested in **Full Stack Web Development** and **Artificial Inteligence.**
-- 🌱 I’m currently learning backend in **Node.js** and **Django.**
-- 🚀 I've created a blog where I post everything I learn 😎 please **[check it out!](https://crevna.com)**.
+- 👀 Full Stack Javascript Developer with knowledge in React.js & Vue.js for the Front and Node.js with Express.js for the back. Also I have very solid understanding of Next.js and Remix.js for FullStack React development.
+- 📱 Mobile developer with Flutter
+- 🌱 I’m currently learning Ruby on Rails
 ## Contact me 🙋‍♂️
 - 📫 You can reach me from my **[LinkedIn Profile](https://www.linkedin.com/in/juansebasva1201).**
 <!--- - 💞️ I’m looking to collaborate on ... --->
