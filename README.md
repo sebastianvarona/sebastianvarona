@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sebastian Varona an Informatics Engeneering student.
 ## My career path 🪨⛏
-- 👀 Full Stack Javascript Developer with knowledge in React.js & Vue.js for the Front and Node.js with Express.js for the back. Also I have very solid understanding of Next.js and Remix.js for FullStack React development.
+- 👀 Full Stack Javascript Developer with knowledge in React.js and Node.js with Express.js. Also I have very solid understanding of Next.js and Remix.js frameworks for FullStack React development.
 - 📱 Mobile developer with Flutter
 - 🌱 I’m currently learning Ruby on Rails
 ## Contact me 🙋‍♂️
