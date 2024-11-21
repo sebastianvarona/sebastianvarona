@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sebastian Varona Full Stack Developer!
 ## My career path 🪨⛏
-- 👀 Full Stack Javascript Developer with knowledge in React.js and Node.js with Express.js. Also I have very solid understanding of Next.js and Remix.js frameworks for FullStack React development.
+- 👀 Full Stack Golang / Ruby on Rails Developer with focus on Backend Development.
 - 🌱 I’m working on my Golang portfolio!
 ## Contact me 🙋‍♂️
 - 📫 You can reach me from my **[LinkedIn Profile](https://www.linkedin.com/in/juansebasva1201).**
